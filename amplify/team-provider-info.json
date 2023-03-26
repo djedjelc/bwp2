@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-biowinpharmatest-dev-101807-authRole",
+      "UnauthRoleArn": "arn:aws:iam::424844235250:role/amplify-biowinpharmatest-dev-101807-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::424844235250:role/amplify-biowinpharmatest-dev-101807-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-biowinpharmatest-dev-101807-deployment",
+      "UnauthRoleName": "amplify-biowinpharmatest-dev-101807-unauthRole",
+      "StackName": "amplify-biowinpharmatest-dev-101807",
+      "StackId": "arn:aws:cloudformation:us-east-1:424844235250:stack/amplify-biowinpharmatest-dev-101807/fb6ceae0-c17f-11ed-b967-0e55229f87e9",
+      "AmplifyAppId": "dpwdcev9dn4g2"
+    },
+    "categories": {
+      "auth": {
+        "biowinpharmatestd6ff7dca": {}
+      },
+      "storage": {
+        "s3a15caacb": {}
+      },
+      "api": {
+        "biowinpharmatest": {}
+      }
+    }
+  }
+}
